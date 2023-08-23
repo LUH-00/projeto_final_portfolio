@@ -1,26 +1,4 @@
-/* Carrocel */
-/* .container-fluid {
-    padding: 0;
-}
 
-#mainSlider .carousel-inner, #mainSlider .carousel-item {
-    height: 90vh;
-}
-
-#mainSlider .carousel-caption {
-    top:30%
-}
-
-#mainSlider .carousel-caption h2 {
-    font-size: 50px;
-    margin-bottom: 30px;
-}
-
-#mainSlider .carousel-caption h1 {
-    font-size: 22px;
-    font-weight: 300;
-    margin-bottom: 100px;
-} */
 
 body{
     background-color: #474747;
@@ -70,3 +48,8 @@ body{
     transition: 0.5s;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.993);
 }
+
+
+
+
+
